@@ -14,4 +14,4 @@ Lancer l'application dans le navigateur sur le port 5050: http://localhost:5050/
 
 **Résultat**
 
-![](captDocker.PNG)
+![](captDocker.png)
