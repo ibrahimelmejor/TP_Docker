@@ -12,3 +12,6 @@ Lancer la commande : **sudo docker run -tid -p 5050:8080 --name camera_app camer
 
 Lancer l'application dans le navigateur sur le port 5050: http://localhost:5050/
 
+**Résultat**
+
+![](captDocker.PNG)
