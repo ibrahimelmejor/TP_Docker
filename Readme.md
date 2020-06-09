@@ -1,5 +1,7 @@
 # TP docker:
 
+Lancer la commande **sudo systemctl start docker**
+
 ## Docker compose:
 
 Lancer la commande **sudo docker-compose up** pour créer les 4 conteneurs nginx et 1 conteneur de jwilder/nginx-proxy
